@@ -42,5 +42,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-**Author:** [Your Name Here]  
+**Author:** [Jacob Forgive Mlambo]  
 *Credit Risk Prediction | Business Analytics Portfolio*
